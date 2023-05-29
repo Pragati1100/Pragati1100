@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently working on improving my programming skills
+- 🌱 I’m currently learning Web development
+- 👯 I’m looking to collaborate on building projects
+- 🤔 I’m looking for help with building my coding skills
+- 💬 Ask me about life
+- 📫 How to reach me: via linkedin
+- 😄 Pronouns: she/her
+
+
 
 <!--
 **Pragati1100/Pragati1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
